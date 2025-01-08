@@ -1,0 +1,11 @@
+name = "CUDAParameterMemory"
+uuid = "98a40da0-c666-47c7-b8ca-f247b27a92c2"
+authors = ["Climate Modeling Alliance"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+
+[compat]
+CUDA = "5.5"
+julia = "1.9"
